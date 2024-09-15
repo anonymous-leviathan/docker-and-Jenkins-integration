@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
 <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>docker-jenkins-integration-sample.jar</finalName>
 </build>
 
     <properties>
